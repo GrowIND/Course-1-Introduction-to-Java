@@ -1,6 +1,6 @@
 //GrowIND
 //Introduction to Java
-//Lecture 2: Program Structure in Java
+//Lecture 4: Control Statement I: if-else
 package com.company;
 import java.util.Scanner;
 import java.util.Random;
