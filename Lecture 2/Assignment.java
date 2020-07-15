@@ -12,7 +12,7 @@ public class Main{
             String name = new String();
             name=s.next();
             s.close();
-            System.out.println("Hi " +name+ " we have looked into your requirements, some from the team will contact you within 24 hrs with the prototype.\nThank you.");
+            System.out.println("Hi " +name+ " we have looked into your requirements, someone from the team will contact you within 24 hrs with the prototype.\nThank you.");
 
     }
 }
