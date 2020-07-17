@@ -18,7 +18,7 @@ class Farm
     {
         System.out.println("Constructor-2 Called");
         lenght = 60.0;
-        width = 20;
+        width = w;
     }
     Farm ()
     {
