@@ -13,5 +13,8 @@ class Main{
 
         Vehicle Car = new Vehicle();
         System.out.println("Top speed can't exceed " +Car.top_speed);
+        
+        Vechile Truck = new Vechicle();
+        System.out.println("Acc is " + Truck.acc);       
     }
 }
