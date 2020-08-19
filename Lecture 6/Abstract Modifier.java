@@ -4,14 +4,14 @@
 
 package com.company;
 abstract class Person {
-    public String fname = "John";
-    public int age = 24;
+    public String fname = "Binod";
+    public int age = 22;
     public abstract void study(); 
 }
 
 
 class Student extends Person {
-    public int graduationYear = 2018;
+    public int graduationYear = 2020;
     public void study() {
         System.out.println("Studying all day long");
     }
